@@ -17,6 +17,10 @@
     min-height: 100vh;
     margin: 0;
     font-family: 'Lato', sans-serif;
+    background-image: url(./85333.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   }
   
   .container {
